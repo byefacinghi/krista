@@ -1,0 +1,1 @@
+import selenium==4.24.0
